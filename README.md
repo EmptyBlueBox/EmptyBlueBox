@@ -36,7 +36,7 @@
 
 ---
 
-#### [Cubing!](https://skillicons.dev/icons?i=cube&perline=6&theme=dark)
+#### [Cubing!](https://www.worldcubeassociation.org/persons/2017LIAN26)
 
 </p>
 
