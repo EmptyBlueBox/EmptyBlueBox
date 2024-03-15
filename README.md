@@ -1,6 +1,6 @@
 <div align="center">
 
-![conanai.png](https://pbs.twimg.com/media/En6Q7M3XEAEQfyS?format=jpg&name=large)
+![heaven_sent.png](https://pbs.twimg.com/media/En6Q7M3XEAEQfyS?format=jpg&name=large)
   
 <div align="center">
   <h1><pre> Fantastic! </pre></h1>
@@ -26,9 +26,17 @@
 
 ![tools](https://skillicons.dev/icons?i=github,vscode,pytorch,linux,git,docker&perline=6&theme=dark)
 
+#### Learning
+
+![learning](https://skillicons.dev/icons?i=rust&perline=6&theme=dark)
+
 <p align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyBlueBox&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="EmptyBlueBox">
+
+---
+
+#### [Cubing!](https://skillicons.dev/icons?i=cube&perline=6&theme=dark)
 
 </p>
 
@@ -36,4 +44,8 @@
   
 </div>
 
-![](https://hit.yhype.me/github/profile?user_id=89621688&color=blue&style=for-the-badge&label=PROFILE+VIEWS&base=10)
+<!-- ![](https://hit.yhype.me/github/profile?user_id=89621688&color=blue&style=for-the-badge&label=PROFILE+VIEWS) -->
+
+</div>
+
+[referenced from](https://github.com/zhuozhiyongde)
