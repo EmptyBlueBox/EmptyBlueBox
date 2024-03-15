@@ -40,7 +40,7 @@
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=EmptyBlueBox&color=dc143c">
+<img src="https://komarev.com/ghpvc/?username=EmptyBlueBox&color=blue&style=for-the-badge">
   
 </div>
 
