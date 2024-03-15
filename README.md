@@ -10,7 +10,7 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=EmptyBlueBox&show_icons=true&theme=transparent&title_color=FFE652&text_color=71DFE7&hide_border=1&border_radius=10" alt="EmptyBlueBox">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmptyBlueBox&count_private=true&show_icons=true&theme=transparent&title_color=FFE652&text_color=71DFE7&hide_border=1&border_radius=10" alt="EmptyBlueBox">
 
 </p>
 
@@ -32,7 +32,7 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyBlueBox&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="EmptyBlueBox">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyBlueBox&count_private=true&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="EmptyBlueBox">
 
 ---
 
