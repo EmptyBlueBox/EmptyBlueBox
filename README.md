@@ -1,7 +1,7 @@
 <div align="center">
 
 ![heaven_sent.png](https://pbs.twimg.com/media/En6Q7M3XEAEQfyS?format=jpg&name=large)
-  
+
 <div align="center">
   <h1><pre> Fantastic! </pre></h1>
 </div>
@@ -38,10 +38,14 @@
 
 #### [Cubing!](https://www.worldcubeassociation.org/persons/2017LIAN26)
 
+
+
+<img src="./README.assets/CleanShot 2024-03-23 at 21.05.03@2x.png" alt="CleanShot 2024-03-23 at 21.05.03@2x" style="zoom:50%;" />
+
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=EmptyBlueBox&color=blue&style=for-the-badge">
-  
+
 </div>
 
 <!-- ![](https://hit.yhype.me/github/profile?user_id=89621688&color=blue&style=for-the-badge&label=PROFILE+VIEWS) -->
