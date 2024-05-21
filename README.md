@@ -20,17 +20,17 @@
 
 ---
 
-### My Stack
+## My Stack
 
-#### Current
+### Current
 
 ![current](https://skillicons.dev/icons?i=python,cpp,c,md&perline=6&theme=dark)
 
-#### Tools
+### Tools
 
 ![tools](https://skillicons.dev/icons?i=github,vscode,pytorch,linux,git,docker&perline=6&theme=dark)
 
-#### Learning
+### Learning
 
 ![learning](https://skillicons.dev/icons?i=rust&perline=6&theme=dark)
 
@@ -42,7 +42,7 @@
 
 ---
 
-#### [Cubing!](https://www.worldcubeassociation.org/persons/2017LIAN26)
+## [Cubing!](https://www.worldcubeassociation.org/persons/2017LIAN26)
 
 <p align="center">
 
