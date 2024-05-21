@@ -44,7 +44,10 @@
 
 #### [Cubing!](https://www.worldcubeassociation.org/persons/2017LIAN26)
 
-<img src="./README.assets/CleanShot 2024-03-23 at 21.03.49@2x.png" alt="CleanShot 2024-03-23 at 21.03.49@2x" style="zoom:50%;" />
+<p align="center">
 
+<img src="./README.assets/cubing.png" alt="CleanShot 2024-03-23 at 21.03.49@2x" style="zoom:50%;" />
+
+</p>
 
 [referenced from](https://github.com/zhuozhiyongde)
