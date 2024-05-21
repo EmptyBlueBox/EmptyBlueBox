@@ -1,3 +1,5 @@
+<div align="center">
+
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=EmptyBlueBox&color=blue&style=for-the-badge">
@@ -26,6 +28,7 @@
 
 ![current](https://skillicons.dev/icons?i=python,cpp,c,md&perline=6&theme=dark)
 
+
 ### Tools
 
 ![tools](https://skillicons.dev/icons?i=github,vscode,pytorch,linux,git,docker&perline=6&theme=dark)
@@ -33,6 +36,7 @@
 ### Learning
 
 ![learning](https://skillicons.dev/icons?i=rust&perline=6&theme=dark)
+
 
 <p align="center">
 
@@ -49,5 +53,7 @@
 <img src="./README.assets/cubing.png" alt="CleanShot 2024-03-23 at 21.03.49@2x" style="zoom:50%;" />
 
 </p>
+
+</div>
 
 [referenced from](https://github.com/zhuozhiyongde)
