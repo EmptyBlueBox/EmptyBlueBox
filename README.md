@@ -16,6 +16,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=EmptyBlueBox&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&title_color=FFE652&text_color=71DFE7&hide_border=1&border_radius=10" alt="EmptyBlueBox">
 
+<img src="http://ghchart.rshah.org/EmptyBlueBox" alt="EmptyBlue's Github chart" />
+
 </p>
 
 ## Welcome to my [personal website](https://lyt0112.com)!
