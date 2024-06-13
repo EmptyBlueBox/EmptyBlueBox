@@ -1,3 +1,5 @@
+# Welcome to Yutong's GitHub
+
 <div align="center">
 
 <p align="center">
@@ -22,8 +24,6 @@
 
 ## Welcome to my [personal website](https://lyt0112.com)!
 
----
-
 ## My Stack
 
 ### Current
@@ -45,8 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyBlueBox&count_private=true&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="EmptyBlueBox">
 
 </p>
-
----
 
 ## [Cubing!](https://www.worldcubeassociation.org/persons/2017LIAN26)
 
