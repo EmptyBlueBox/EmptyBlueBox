@@ -1,6 +1,6 @@
-# Welcome to Yutong's GitHub
-
 <div align="center">
+
+# Welcome to Yutong's GitHub
 
 <p align="center">
 
