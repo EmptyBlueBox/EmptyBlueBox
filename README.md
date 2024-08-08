@@ -1,14 +1,10 @@
-<div align="center">
 # GitHub Statistics
-</div>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=EmptyBlueBox&color=6c8ed4&style=for-the-badge">
 </p>
 
 </br>
- 
-<p align="center">
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=EmptyBlueBox&title_color=6c8ed4&text_color=62baae&icon_color=6c8ed4&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=transparent" />
@@ -18,19 +14,16 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=EmptyBlue&theme=transparent&hide_border=true&layout=compact&langs_count=7&title_color=6c8ed4&text_color=62baae" /> -->
-<img align="center" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24354%26project%3D%26in=0" />
+<!-- <img align="center" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24354%26project%3D%26in=0" /> -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyBlueBox&theme=transparent&hide_border=true&title_color=6c8ed4&text_color=62baae&hide=jupyter%20notebook" />
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=EmptyBlueBox&theme=github-compact&hide_border=true&area=true&hide_title=true&line=6c8ed4&area_color=62baae" />
+<img align="center" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=EmptyBlueBox&theme=github-compact&hide_border=true&area=true&hide_title=true&line=6c8ed4&area_color=62baae" />
+
+<img align="center" width="800" src="http://ghchart.rshah.org/6c8ed4/EmptyBlueBox" />
 
 </br>
-
-<p align="center">
-<img src="http://ghchart.rshah.org/6c8ed4/EmptyBlueBox" alt="EmptyBlue's Github chart" />
-
-</p>
 
 ## Welcome to my [website](https://lyt0112.com)!
 
