@@ -27,9 +27,8 @@
 
 </br>
 
-<p align="center">
+<div align="center">
 ## Welcome to my [website](https://lyt0112.com)!
-</p>
 
 ## My Stack
 
@@ -51,6 +50,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyBlueBox&count_private=true&layout=compact&hide=html&title_color=6c8ed4&theme=radical&text_color=62baae&hide_border=1&border_radius=10&theme=transparent" alt="EmptyBlueBox">
 
 </div> -->
+
+</div>
 
 ## Credit
 
