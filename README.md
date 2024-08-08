@@ -1,11 +1,9 @@
-# GitHub Statistics
+<img align="center" src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&&section=header&text=Nice%20to%20meet%20you!%20🥳&fontSize=70&fontAlign=50&fontAlignY=50">
+
+
+<img align="center" src="https://komarev.com/ghpvc/?username=EmptyBlueBox&color=6c8ed4&style=for-the-badge">
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=EmptyBlueBox&color=6c8ed4&style=for-the-badge">
-</p>
-
-<p align="center">
-
 </br>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -24,7 +22,6 @@
 <img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyBlueBox&theme=transparent&hide_border=true&title_color=6c8ed4&text_color=62baae&hide=jupyter%20notebook" />
 
 <img align="center" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=EmptyBlueBox&theme=github-compact&hide_border=true&area=true&hide_title=true&line=6c8ed4&area_color=62baae" />
-
 
 </br>
 
