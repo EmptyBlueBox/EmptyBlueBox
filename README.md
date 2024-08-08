@@ -21,13 +21,15 @@
 <img align="center" width="600" src="http://ghchart.rshah.org/6c8ed4/EmptyBlueBox" />
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyBlueBox&theme=transparent&hide_border=true&title_color=6c8ed4&text_color=62baae&hide=jupyter%20notebook" />
+<!-- <img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyBlueBox&theme=transparent&hide_border=true&title_color=6c8ed4&text_color=62baae&hide=jupyter%20notebook" /> -->
 
 <img align="center" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=EmptyBlueBox&theme=github-compact&hide_border=true&area=true&hide_title=true&line=6c8ed4&area_color=62baae" />
 
 </br>
 
+<p align="center">
 ## Welcome to my [website](https://lyt0112.com)!
+</p>
 
 ## My Stack
 
