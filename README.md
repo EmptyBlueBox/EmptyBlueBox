@@ -18,14 +18,14 @@
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=EmptyBlue&theme=transparent&hide_border=true&layout=compact&langs_count=7&title_color=6c8ed4&text_color=62baae" /> -->
 <!-- <img align="center" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24354%26project%3D%26in=0" /> -->
 
-<img align="center" width="600" src="http://ghchart.rshah.org/6c8ed4/EmptyBlueBox" />
+<img align="center" width="800" src="http://ghchart.rshah.org/6c8ed4/EmptyBlueBox" />
 
+<!-- Most used languages -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- <img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyBlueBox&theme=transparent&hide_border=true&title_color=6c8ed4&text_color=62baae&hide=jupyter%20notebook" /> -->
+<!-- <img align="center" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyBlueBox&count_private=true&layout=compact&hide=html&title_color=6c8ed4&theme=radical&text_color=62baae&hide_border=1&border_radius=10&theme=transparent" alt="EmptyBlueBox"> -->
 
-<img align="center" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyBlueBox&count_private=true&layout=compact&hide=html&title_color=6c8ed4&theme=radical&text_color=62baae&hide_border=1&border_radius=10&theme=transparent" alt="EmptyBlueBox">
-
-
+<!-- Commit activity -->
 <img align="center" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=EmptyBlueBox&theme=github-compact&hide_border=true&area=true&hide_title=true&line=6c8ed4&area_color=62baae" />
 
 </br>
