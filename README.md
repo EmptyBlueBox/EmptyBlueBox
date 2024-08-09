@@ -32,9 +32,9 @@
 
 <div align="center">
 
-## Welcome to my [website](https://lyt0112.com)!
+# Welcome to my [website](https://lyt0112.com) for more interesting things!
 
-## My Stack
+<!-- ## My Stack
 
 ### Current
 
@@ -47,7 +47,7 @@
 
 ### Learning
 
-![learning](https://skillicons.dev/icons?i=rust&perline=6&theme=dark)
+![learning](https://skillicons.dev/icons?i=rust&perline=6&theme=dark) -->
 
 </div>
 
