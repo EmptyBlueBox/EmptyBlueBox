@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&&section=header&text=My%20GitHub%20%Statistics&fontSize=50&fontAlign=50&fontAlignY=50">
 
-
 <p align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=EmptyBlueBox&color=6c8ed4&style=for-the-badge">
 </p>
