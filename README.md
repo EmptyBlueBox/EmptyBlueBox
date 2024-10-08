@@ -1,11 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&&section=header&text=GitHub%20%Statistics&fontSize=50&fontAlign=50&fontAlignY=50">
-
-
-<a href="https://www.lyt0112.com"><img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&&section=header&text=Welcome%20to%20my%20website%20for%20more%20interesting%20things!&fontSize=35&fontAlign=50&fontAlignY=50"></a>
+<img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&&section=header&text=GitHub%20%Statistics&fontSize=50&fontAlign=50&fontAlignY=50&animation=fadeIn">
 
 <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=EmptyBlueBox&color=6c8ed4&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=EmptyBlueBox&color=6c8ed4&style=for-the-badge">
 </p>
+
+<a href="https://www.lyt0112.com"><img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&&section=header&text=Click%20here%20for%20more%20interesting%20things!&fontSize=30&fontAlign=50&fontAlignY=50&animation=fadeIn"></a>
 
 <p align="center">
   </br>
