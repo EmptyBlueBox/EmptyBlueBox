@@ -21,7 +21,7 @@
   </br>
 </p>
 
-### Credit
+### Credits
 
 - [zzy](https://github.com/zhuozhiyongde)
 - [vwOvOwv](https://github.com/vwOvOwv/vwOvOwv/)
