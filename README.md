@@ -23,5 +23,5 @@
 
 ### Credits
 
-- [zzy](https://github.com/zhuozhiyongde)
-- [vwOvOwv](https://github.com/vwOvOwv/vwOvOwv/)
+- [Arthals](https://github.com/zhuozhiyongde)
+- [LPY](https://github.com/vwOvOwv/vwOvOwv/)
