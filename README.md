@@ -24,4 +24,4 @@
 ### Credits
 
 - [Arthals](https://github.com/zhuozhiyongde)
-- [LPY](https://github.com/vwOvOwv/vwOvOwv/)
+- [vwOvOwv](https://github.com/vwOvOwv/vwOvOwv/)
