@@ -8,6 +8,7 @@
 
 <p align="center">
   </br>
+
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=EmptyBlueBox&title_color=6c8ed4&text_color=62baae&icon_color=6c8ed4&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=transparent" />
 
@@ -18,6 +19,7 @@
 
   <!-- Commit activity -->
   <img align="center" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=EmptyBlueBox&theme=github-compact&hide_border=true&area=true&hide_title=true&line=6c8ed4&area_color=62baae" />
+  
   </br>
 </p>
 
