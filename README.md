@@ -6,9 +6,9 @@
 
 [![My Visits](https://komarev.com/ghpvc/?username=EmptyBlueBox&color=6c8ed4&style=for-the-badge)](https://github.com/EmptyBlueBox)
 
-[![My Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmptyBlueBox&theme=default)](https://github.com/EmptyBlueBox)
+[![My Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmptyBlueBox&theme=transparent)](https://github.com/EmptyBlueBox)
 
-[![My Commit Activity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmptyBlueBox&theme=default&utcOffset=8)](https://github.com/EmptyBlueBox)
+[![My Commit Activity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmptyBlueBox&theme=transparent&utcOffset=8)](https://github.com/EmptyBlueBox)
 
 </div>
 
