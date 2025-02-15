@@ -13,8 +13,3 @@
 [![My Commit Activity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmptyBlueBox&theme=transparent&utcOffset=8)](https://github.com/EmptyBlueBox)
 
 </div>
-
-### Credits
-
-- [Arthals](https://github.com/zhuozhiyongde)
-- [vwOvOwv](https://github.com/vwOvOwv/vwOvOwv/)
