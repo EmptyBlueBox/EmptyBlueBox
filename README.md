@@ -8,6 +8,8 @@
 
 [![My Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmptyBlueBox&theme=transparent)](https://github.com/EmptyBlueBox)
 
+[![My Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmptyBlueBox&theme=transparent)](https://github.com/EmptyBlueBox)
+
 [![My Commit Activity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmptyBlueBox&theme=transparent&utcOffset=8)](https://github.com/EmptyBlueBox)
 
 </div>
