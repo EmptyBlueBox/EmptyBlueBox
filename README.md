@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&&section=header&text=GitHub%20%Statistics&fontSize=50&fontAlign=50&fontAlignY=50&animation=fadeIn">
 
-<a href="https://www.lyt0112.com"><img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&&section=header&text=Click%20here%20to%20see%20his%20website!&fontSize=30&fontAlign=50&fontAlignY=50&animation=fadeIn"></a>
+<a href="https://www.lyt0112.com"><img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&&section=header&text=Click%20to%20his%20website!&fontSize=30&fontAlign=50&fontAlignY=50&animation=fadeIn"></a>
 
 <div align="center">
 
