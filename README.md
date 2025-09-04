@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&&section=header&text=GitHub%20%Statistics&fontSize=50&fontAlign=50&fontAlignY=50&animation=fadeIn">
 
-<a href="https://www.lyt0112.com"><img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&&section=header&text=Click%20here%20to%20visit%20my%20website!&fontSize=20&fontAlign=50&fontAlignY=50&animation=fadeIn"></a>
-
 <div align="center">
 
 [![Visits](https://komarev.com/ghpvc/?username=EmptyBlueBox&color=6c8ed4&style=for-the-badge)](https://github.com/EmptyBlueBox)
