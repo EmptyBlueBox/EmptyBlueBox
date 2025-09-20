@@ -8,6 +8,6 @@
 
 [![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmptyBlueBox&theme=transparent)](https://github.com/EmptyBlueBox)
 
-[![Commit Frequency](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmptyBlueBox&theme=transparent&utcOffset=-7](https://github.com/EmptyBlueBox)
+[![Commit Frequency](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmptyBlueBox&theme=transparent&utcOffset=-7)](https://github.com/EmptyBlueBox)
 
 </div>
