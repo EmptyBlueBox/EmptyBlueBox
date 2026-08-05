@@ -1,13 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&&section=header&text=GitHub%20%Statistics&fontSize=50&fontAlign=50&fontAlignY=50&animation=fadeIn">
-
 <div align="center">
 
-[![Visits](https://komarev.com/ghpvc/?username=EmptyBlueBox&color=6c8ed4&style=for-the-badge)](https://github.com/EmptyBlueBox)
+# GitHub Statistics
 
-[![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmptyBlueBox&theme=transparent)](https://github.com/EmptyBlueBox)
+[![Profile Views](https://komarev.com/ghpvc/?username=EmptyBlueBox&color=6c8ed4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/EmptyBlueBox)
 
-[![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmptyBlueBox&theme=transparent)](https://github.com/EmptyBlueBox)
-
-[![Commit Frequency](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmptyBlueBox&theme=transparent&utcOffset=-7)](https://github.com/EmptyBlueBox)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats_dark.svg">
+  <img width="49%" src="./profile/stats_light.svg" alt="GitHub statistics">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/languages_dark.svg">
+  <img width="49%" src="./profile/languages_light.svg" alt="Most used languages">
+</picture>
 
 </div>

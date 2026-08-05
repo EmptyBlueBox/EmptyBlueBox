@@ -1,0 +1,58 @@
+name: Update profile statistics
+
+on:
+  schedule:
+    - cron: "17 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&show=discussions_answered,prs_merged,prs_merged_percentage&theme=default&border_radius=12"
+          path: profile/stats_light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&show=discussions_answered,prs_merged,prs_merged_percentage&theme=github_dark&border_radius=12"
+          path: profile/stats_dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=donut&langs_count=8&card_width=417&hide_border=true&theme=default&border_radius=12"
+          path: profile/languages_light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=donut&langs_count=8&card_width=417&hide_border=true&theme=github_dark&border_radius=12"
+          path: profile/languages_dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - run: |
+          sed -i 's/height="270"/height="311"/; s/viewBox="0 0 467 270"/viewBox="0 0 467 311"/' profile/stats_*.svg
+          sed -i 's/translate(125, 3)/translate(125, -55)/' profile/languages_*.svg
+
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update profile statistics" || exit 0
+          git push
